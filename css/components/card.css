@@ -1,0 +1,28 @@
+.container{
+  width: 900px;
+  margin: auto;
+}
+
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  }
+
+
+.steps-card{
+width: 200px;
+padding: 20px;
+border: 1px solid;
+border-color: rgb(230, 230, 230);
+border-radius: 3px;
+text-align: center;
+box-shadow: 0 0 1px;
+
+}
+
+.steps-card img{
+  max-width: 60%;
+  text-align: center;
+}
